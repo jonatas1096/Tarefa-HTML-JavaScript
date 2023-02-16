@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    background-color: #ffa500;
+}
+
+h1{
+    color: white;
+}
+
+a{
+    color: black;
+    font-weight: bold;
+    
+}
+
+p{
+    color: white;
+    font-weight: bolder;
+}
+
+span{
+    font-weight: bolder;
+}
